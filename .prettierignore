@@ -1,0 +1,5 @@
+# .prettierignore
+
+pages/contact.js
+components/Timeline.js
+directory-to-ignore/
